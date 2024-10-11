@@ -7,7 +7,7 @@ import { connect } from 'cloudflare:sockets';
 
 // How to generate your own UUID:
 // https://www.uuidgenerator.net/
-let userID = 'c1410a68-da2c-45e9-a937-a13db9df64ab';
+let userID = 'config_in_cf';
 
 // https://www.nslookup.io/domains/bpb.yousef.isegaro.com/dns-records/
 const proxyIPs= ['cdn.xn--b6gac.eu.org','cdn-all.xn--b6gac.eu.org','ts.hpc.tw'];
